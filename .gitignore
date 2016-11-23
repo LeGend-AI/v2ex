@@ -1,0 +1,17 @@
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python
+*.py[co]
+
+# IDEA
+.idea
+
+# Others
+*.swp
+*~
+*.log
